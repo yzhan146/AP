@@ -12,7 +12,7 @@ AP (Advanced Programming 的缩写) 是BuptAAA 的 Job Seeking Package 底下的
 
 暂定的模式为每周五发放15道题（全员对每道题都需要编程），并从这15道题为每人选出这周要写report的题目。对于review，每人会被分配三个review对象（成员），要对他/她的代码和报告进行review。最后是每周的开会总结
 
-## 重要日子
+## 时间安排
 
 1. 周二：上周代码提交ddl（EST 11:59 p.m.）
 2. 周三：review和report的ddl（EST 11:59 p.m.）
