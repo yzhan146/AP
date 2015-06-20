@@ -26,8 +26,8 @@ AP (Advanced Programming 的缩写) 是BuptAAA 的 Job Seeking Package 底下的
 
 ## 时间安排
 
-1. 周二：上周代码提交ddl（EST 11:59 p.m.）
-2. 周三：review和report的ddl（EST 11:59 p.m.）
+1. 周二: 上周代码提交ddl（EST 11:59 p.m.）
+2. 周三: review和report的ddl（EST 11:59 p.m.）
 3. 周四: 开会时间
 4. 周五: 题目和report题目发放时间
 
