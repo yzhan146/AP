@@ -4,16 +4,16 @@ Given a 2D binary matrix filled with 0's and 1's, find the largest square contai
 
 For example, given the following matrix:
 
-<b style='color:red'>red words</b>.
+<span style="color: red">font color</span>
+
 ```
-<b style='color:red'>red words</b>.
 1 0 1 0 0
 1 0 1 1 1
 1 1 1 1 1
 1 0 0 1 0
 ```
-
 Return 4.
+
 ## Input File
 
 1) Line 1: N, i.e. number of test cases
