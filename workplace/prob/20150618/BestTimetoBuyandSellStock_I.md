@@ -4,13 +4,13 @@ Say you have an array for which the ith element is the price of a given stock on
 
 If you were only permitted to complete at most one transaction (ie, buy one and sell one share of the stock), design an algorithm to find the maximum profit.
 
-# Input File
+## Input File
 
 1) Line 1: N, i.e. number of test cases
 
 2) Line 2 to Line N+1: each line is an array for which the ith element is the price of a given stock on day i.
 
-# Output File 
+## Output File 
 
 1) Line 1: maximum profit for testcase#1  [If it doesn't exist, output 0]
 
@@ -32,20 +32,20 @@ If you were only permitted to complete at most one transaction (ie, buy one and 
 4N-1) Line 4N-1: prices (starting from 0) of the day to buy and sell for testcase#N [if nothing exiss, output -1]
 
 
-# Requirement
+## Requirement
 
 You should implement both top-down and bottom-up dp solution. Any non-dp (e.g greedy) methods are welcome!
 
-# Example
+## Example
 
-## Input
+### Input
 2
 <br>
 1 3 5 7
 <br>
 6 4
 
-## Output
+### Output
 6
 <br>
 0 3
