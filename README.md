@@ -12,6 +12,10 @@ AP (Advanced Programming 的缩写) 是BuptAAA 的 Job Seeking Package 底下的
 
 1. 每周五发放15道题（每道题都需要编程）
 
+   1.1 题目的详尽描述放在[prob](https://github.com/BUPT-AC/AP/tree/master/workplace/prob)的每周文件夹里
+   
+   1.2 每周计划放在[plan](https://github.com/BUPT-AC/AP/tree/master/plan)对应的周文件
+
 2. 写代码过程要写testcases
 
 3. 从这15道题为每人选出这周要写report的题目
