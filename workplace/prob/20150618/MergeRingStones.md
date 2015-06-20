@@ -4,14 +4,14 @@ N heap of stones are placed in a circle around the playground. Stone is to have 
 
 Design an algorithm to calculate the n heap the stones merged into a bunch of minimum score and maximum score.
 
-## Input File
+# Input File
 
 1) Line 1: heap number N (1 <= N <= 100)
 
 2) Line 2: numbers of stones in each heap, every two numbers separated by a space
 
 
-## Output File 
+# Output File 
 
 1) Line 1: minimum score
 
@@ -23,18 +23,18 @@ Design an algorithm to calculate the n heap the stones merged into a bunch of mi
 
 5) Line N+3 to Line 2N+1: piles of stone after each merge
 
-## Requirement
+# Requirement
 
 You should implement both top-down and bottom-up dp solution. Any non-dp (e.g greedy) methods are welcome!
 
-## Example
+# Example
 
-### Input
+## Input
 4
 <br>
 4 4 5 9
 
-### Output
+## Output
 43
 <br>
 8 8 5 9
