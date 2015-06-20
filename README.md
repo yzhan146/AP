@@ -8,9 +8,17 @@ AP (Advanced Programming 的缩写) 是BuptAAA 的 Job Seeking Package 底下的
 
 以尽量少的资源达到最好的效果
 
-## 工作安排
+## 工作安排（暂定）
 
-暂定的模式为每周五发放15道题（全员对每道题都需要编程），并从这15道题为每人选出这周要写report的题目。对于review，每人会被分配三个review对象（成员），要对他/她的代码和报告进行review。最后是每周的开会总结
+1. 每周五发放15道题（每道题都需要编程）。
+
+2. 写代码过程要写testcases。testcases 提交到 https://github.com/BUPT-AC/AP/tree/master/workplace/testcase
+
+3. 从这15道题为每人选出这周要写report的题目
+
+4. 每人会被分配三个review对象（成员），要对他/她的代码和报告进行review
+
+5. 每周开会总结
 
 ## 时间安排
 
@@ -19,6 +27,34 @@ AP (Advanced Programming 的缩写) 是BuptAAA 的 Job Seeking Package 底下的
 3. 周四: 开会时间
 4. 周五: 题目和report题目发放时间
 
+## 任务提交方式
+
+1. 代码
+
+   1.1 push到[src](https://github.com/BUPT-AC/AP/tree/master/workplace/src)， 每人需在src底下自建一个目录，如src/cchen
+   
+   1.2 代码的命名和[prob](https://github.com/BUPT-AC/AP/tree/master/workplace/prob)里对应的题目命名一致，如[MergeRingStones.md](https://github.com/BUPT-AC/AP/blob/master/workplace/prob/20150618/MergeRingStones.md),对应的文件名可以为MergeRingStones.py , MergeRingStones.java, ...
+
+2. Testcase
+
+   2.1 push到[testcase](https://github.com/BUPT-AC/AP/tree/master/workplace/testcase)
+   
+   2.2 testcase的命名和[prob](https://github.com/BUPT-AC/AP/tree/master/workplace/prob)里对应的题目命名一致，如[MergeRingStones.md], 则可以有MergeRingStones001.in , MergeRingStones002.in, ...
+   
+   2.3 要注意[testcase 目录下](https://github.com/BUPT-AC/AP/tree/master/workplace/testcase)不同题目对应的testcase的最大序号, 如MergeRingStones最大的序号是010 (也就是MergeRingStones011.in), 则push的下一个相应的testcase是是MergeRingStones012.in
+
+3. Review
+
+   直接对[src](https://github.com/BUPT-AC/AP/tree/master/workplace/src)里想对应的代码进行comment
+   
+4. Report
+
+   4.1 push 到 [report](https://github.com/BUPT-AC/AP/tree/master/workplace/report)
+   
+   4.2 暂时统一为md格式（markdown文件）
+   
+   4.3 对每道题单独写report, 命名方式和代码和testcase的方式类似
+   
 ## 使用说明
 
 这部份主要对这个repo的不同分块进行简单说明
